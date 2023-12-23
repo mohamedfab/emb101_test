@@ -1,6 +1,6 @@
 void adc_init(void)
 {
-	
+		//init implementation
 }
 
 u16 adc_read(u8 channelNo)
